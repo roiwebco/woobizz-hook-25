@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woobizz Hook 25\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-28 19:01+0000\n"
+"PO-Revision-Date: 2017-08-28 19:06+0000\n"
+"Last-Translator: André Meza <andre.roussille@gmail.com>\n"
+"Language-Team: French (France)\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Woobizz Hook 25"
+msgstr ""
+
+#. Description of the plugin
+msgid "Show multi-steps process on cart, checkout & order received page"
+msgstr ""
+"Afficher le processus multi-étapes sur les pages: panier, commande et "
+"confirmation"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://woobizz.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Woobizz"
+msgstr ""
+
+#: woobizz-hook-25.php:32
+msgid ""
+"Woobizz Hook 25 needs WooCommerce to work properly, If you do not use this "
+"plugin you can disable it!"
+msgstr ""
+"Woobizz Hook 25 a besoin de WooCommerce pour fonctionner correctement. Si "
+"vous n'utilisez pas ce plugin, vous pouvez le désactiver."
+
+#: woobizz-hook-25.php:40 woobizz-hook-25.php:76 woobizz-hook-25.php:112
+msgid "Shopping Cart"
+msgstr "Panier d'achat"
+
+#: woobizz-hook-25.php:41 woobizz-hook-25.php:77 woobizz-hook-25.php:113
+msgid "Shipping & Payment"
+msgstr "Livraison & Paiement"
+
+#: woobizz-hook-25.php:42 woobizz-hook-25.php:78 woobizz-hook-25.php:114
+msgid "Confirmation"
+msgstr "Confirmation"
